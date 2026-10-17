@@ -1,0 +1,7 @@
+model,MAE,RMSE,MAPE_%
+Gradient Boosting,3546.64,4372.84,19.93
+Naive (last month),4431.97,5542.96,22.51
+Seasonal naive (last year),5260.81,6397.81,26.88
+Random Forest,5198.1,5647.94,29.52
+Linear Regression,4954.11,5925.04,29.94
+Ridge,4993.55,6135.54,30.93
